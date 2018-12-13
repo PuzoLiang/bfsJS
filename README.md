@@ -1,0 +1,2 @@
+# bfsJS
+first search algorithm
