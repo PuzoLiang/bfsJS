@@ -1,0 +1,21 @@
+{
+  "name": "bfsJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JingLMalan/bfsJS.git",
+  "author": "jing.l.mlana <jing.l.malan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.1"
+  },
+  "scripts": {
+    "build": "babel ./lib -d build"
+  }
+}
