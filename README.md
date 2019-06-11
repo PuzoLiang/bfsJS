@@ -1,5 +1,7 @@
 # bfsJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JingLMalan/bfsJS.svg)](https://greenkeeper.io/)
+
 Breadth-first search algorithm
 
 ## 广度优先算法 开箱即用
